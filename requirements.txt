@@ -1,0 +1,7 @@
+openai
+transformers
+plotly
+fpdf
+emoji
+pandas
+streamlit
