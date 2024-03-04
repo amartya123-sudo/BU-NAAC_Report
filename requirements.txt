@@ -5,3 +5,4 @@ fpdf
 emoji
 pandas
 streamlit
+torch
